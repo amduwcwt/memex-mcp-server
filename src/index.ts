@@ -14,7 +14,7 @@ async function main(): Promise<void> {
 
   const server = new McpServer({
     name: "memex",
-    version: "1.1.1",
+    version: "1.1.2",
   });
 
   registerTools(server, storage);

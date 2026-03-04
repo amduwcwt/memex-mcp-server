@@ -1,6 +1,6 @@
 {
   "name": "memex-mcp-server",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Tiered memory MCP server for Claude and AI agents — FTS5 search, dedup, export/import, auto-snapshot",
   "type": "module",
   "main": "dist/index.js",
@@ -33,7 +33,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amduwcwt/memex-mcp-server.git"
+    "url": "git+https://github.com/amduwcwt/memex-mcp-server.git"
   },
   "homepage": "https://github.com/amduwcwt/memex-mcp-server#readme",
   "bugs": {
